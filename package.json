@@ -1,0 +1,29 @@
+{
+  "name": "aircall-pager-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env LOGGER_LEVEL=silent jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianDiazM/aircall-pager-test.git"
+  },
+  "author": "Gian Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianDiazM/aircall-pager-test/issues"
+  },
+  "homepage": "https://github.com/gianDiazM/aircall-pager-test#readme",
+  "dependencies": {
+    "convict": "^5.2.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "^7.32.0",
+    "jest": "^27.1.0",
+    "prettier": "^2.3.2",
+    "prettier-standard": "^16.4.1"
+  }
+}
