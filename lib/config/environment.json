@@ -1,10 +1,10 @@
 {
   "dataSource": {
     "escalationPolicy":{
-      "provider": "MOCK"
+      "provider": "MEMORY"
     },
     "pager": {
-      "provider": "MOCK"
+      "provider": "MEMORY"
     }
   }
 }
