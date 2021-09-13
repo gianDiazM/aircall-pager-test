@@ -91,7 +91,7 @@ the file with the configuration values is defined inside ./config/ directory
 
 to run all the tests, we execute:
 ```sh
-npm tests
+npm test
 ```
 
 to run the tests case by case use these commands
