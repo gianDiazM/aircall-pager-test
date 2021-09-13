@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "jest": {
+    "verbose": true,
+    "testMatch": [ "**/?(*.)+(test).[jt]s?(x)" ]
+  },
   "scripts": {
     "test": "cross-env LOGGER_LEVEL=silent jest"
   },
